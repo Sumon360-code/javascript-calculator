@@ -1,0 +1,30 @@
+.table-section{
+    display: inline-block;
+    background: darkblue;
+    padding: 27px;
+    border-radius: 12px !important;
+}
+
+table{
+    margin: auto;
+}
+input{
+    width: 340px;
+    height: 59px;
+    display: inline-block;
+    border: 2px solid black;
+    border-radius: 6px;
+    font-size: 35px;
+}
+
+button {
+    background: whitesmoke;
+    width: 83px;
+    height: 50px; 
+    margin-top: 1px;
+    border-radius: 20px !important;
+    font-size: 30px;
+     border: none;
+    outline: none;
+    /* display: inline-block; */
+}
